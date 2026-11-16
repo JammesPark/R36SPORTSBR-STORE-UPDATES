@@ -1,9 +1,11 @@
 {
   "channel": "beta",
-  "status": "aguardando_primeira_publicacao",
-  "version": null,
-  "url": null,
-  "sha256": null,
-  "size": null,
-  "notes": "Sem atualizacao publica. 0.0.7-beta e a base funcional."
+  "status": "published",
+  "version": "0.0.7-beta",
+  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.7-beta/R36SPORTSBR_STORE_0.0.7-beta.zip",
+  "sha256": "e3412796848ff20f4bac8be06572d3d34623ec99e6d15a114b4acbb7801de812",
+  "size": 13164991,
+  "notes": "R36SPORTSBR STORE 0.0.7-beta: atualizacao oficial do canal beta.",
+  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.7-beta/R36SPORTSBR_STORE_0.0.7-beta_CODIGO_FONTE.zip",
+  "source_sha256": "dd0b5c489bbe6148b9948cb0164ce011e5582a54ecbcc4e062406dd7663ac119"
 }
