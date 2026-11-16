@@ -1,16 +1,16 @@
 {
   "channel": "beta",
   "status": "published",
-  "version": "0.0.9-beta",
-  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.9-beta/R36SPORTSBR_STORE_0.0.9-beta_UPDATE.zip",
-  "sha256": "a4aab993c36fd945ea64e79bc497a28481f05eb7928c020909ebbdbcb134fe72",
-  "size": 11196207,
-  "notes": "R36SPORTSBR STORE 0.0.9-beta: atualizacao oficial do canal beta.",
-  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.9-beta/R36SPORTSBR_STORE_0.0.9-beta_CODIGO_FONTE.zip",
-  "source_sha256": "14f10b8ec35b2d054022f0b8305c90f83212f87d93d927f8eeceb80aeec077ba",
-  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.9-beta/R36SPORTSBR_STORE_0.0.9-beta.zip",
-  "full_sha256": "72ab57281a2798fb6941cca5d53126d348633d56fdead2d4274f83e527b61281",
-  "full_size": 13166202,
-  "min_version": "0.0.8",
-  "max_version": "0.0.8"
+  "version": "0.0.10-beta",
+  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.10-beta/R36SPORTSBR_STORE_0.0.10-beta_UPDATE.zip",
+  "sha256": "83ebe579bd9ff821b122a559631f2f6be6f7ad0470741010bc799fb11245e0cf",
+  "size": 11196778,
+  "notes": "R36SPORTSBR STORE 0.0.10-beta: atualizacao oficial do canal beta.",
+  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.10-beta/R36SPORTSBR_STORE_0.0.10-beta_CODIGO_FONTE.zip",
+  "source_sha256": "eac6bed844afed62db248cb736e993c0ea2e9cfd16f638d972df872e04751e81",
+  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.10-beta/R36SPORTSBR_STORE_0.0.10-beta.zip",
+  "full_sha256": "02014e9c108f1b0454ff85160997649e99deca3ff304f493a6cae3a41c500610",
+  "full_size": 13167125,
+  "min_version": "0.0.9",
+  "max_version": "0.0.9"
 }
