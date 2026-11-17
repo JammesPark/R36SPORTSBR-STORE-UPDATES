@@ -4,24 +4,24 @@
     {
       "id": "forcejedi",
       "name": "Force Nexus — Jedi",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "author": "R36SPORTSBR STORE",
       "description": "Tema visual 640x480 baseado no conceito HTML V4.",
-      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-v1.0.6/forcejedi-1.0.6.zip",
+      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-v1.0.7/forcejedi-1.0.7.zip",
       "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/forcejedi.png",
-      "size": 431281,
-      "sha256": "1fb9ddeab6fe820e31433aefb6de7ffcd686c907e234d3ee4d8b5124bca3c6ac"
+      "size": 424039,
+      "sha256": "0fe9a5dbf8cdb76c309809992a171b29fd6a38cc09155fb3c3ca1247fb83c9da"
     },
     {
       "id": "forcesith",
       "name": "Force Nexus — Sith",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "author": "R36SPORTSBR STORE",
       "description": "Tema visual 640x480 baseado no conceito HTML V4.",
-      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-v1.0.6/forcesith-1.0.6.zip",
+      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-v1.0.7/forcesith-1.0.7.zip",
       "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/forcesith.png",
-      "size": 418438,
-      "sha256": "4e5188d57bd83126a81d68f503fa5dc8594418eb941899a3ebac5f048150e983"
+      "size": 410687,
+      "sha256": "2f26aa3195a3352ba95ff897585a4af6d197729ae5d8617bf632f4d3c95579d2"
     }
   ]
 }
