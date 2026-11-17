@@ -1,16 +1,16 @@
 {
   "channel": "beta",
   "status": "published",
-  "version": "0.0.11-beta",
-  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.11-beta/R36SPORTSBR_STORE_0.0.11-beta_UPDATE.zip",
-  "sha256": "48acdbb643e10090152701195d7bfb436c1ffa5d023701d6bccdfb77e857093b",
-  "size": 11200794,
-  "notes": "Novidades da R36SPORTSBR STORE 0.0.11-beta:\n\n- Infraestrutura do contador global de downloads: catalogos separados e ranking Top 5 do servidor.\n- Registro de cada novo download de jogo concluido, incluindo reinstalacoes no mesmo console.\n- Fila de eventos persistida no SD com reenvio em segundo plano e sem duplicacao no servidor.\n- Backend Cloudflare Workers + D1 opcional, desativado ate haver uma URL HTTPS configurada.\n- Sith e Jedi permanecem conceitos HTML; nenhuma alteracao de tema foi aplicada.\n\nBaseado no R36S PORT HUB, por Lag do Lira. GPL-3.0.",
-  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.11-beta/R36SPORTSBR_STORE_0.0.11-beta_CODIGO_FONTE.zip",
-  "source_sha256": "15b759cbd6cb7cf2ad87f0cbea822183711d081518ba2bc3561d205591a1c1c3",
-  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.11-beta/R36SPORTSBR_STORE_0.0.11-beta.zip",
-  "full_sha256": "867ca5825e48393139c8cec0165a8ac77554b9b00317de4f94a0c464666fd662",
-  "full_size": 13171585,
-  "min_version": "0.0.10",
-  "max_version": "0.0.10"
+  "version": "0.0.12-beta",
+  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.12-beta/R36SPORTSBR_STORE_0.0.12-beta_UPDATE.zip",
+  "sha256": "2fba41a42bce93ed26e306e64840aeca0254527c0efa0b155b5b8475b04ebabc",
+  "size": 11204032,
+  "notes": "Novidades da R36SPORTSBR STORE 0.0.12-beta:\n\n- Tela Top 5 na Central de Conteudo, com ranking independente para Lira e R36SPORTSBR.\n- Cada catalogo utiliza seu proprio cache local, sem misturar estatisticas.\n- Descoberta automatica da URL Cloudflare via stats_api.json publico (inicialmente desativada).\n- Catálogo R36SPORTSBR separado, com Aestheta e Alice in Clicheland, versao 1.0 e arquivos SHA-256 verificados.\n- Codigo do Worker reforcado: verificacao de jogos autorizados, deduplicacao, bloqueio de POST por padrao e rate limit ponderado por evento.\n- A publicacao na conta Cloudflare e a ativacao de POST exigem testes adicionais e nao fazem parte desta atualizacao do console.\n- Temas existentes e caminhos de instalacao SD1/SD2 preservados.\n\nBaseado no R36S PORT HUB, por Lag do Lira. GPL-3.0.",
+  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.12-beta/R36SPORTSBR_STORE_0.0.12-beta_CODIGO_FONTE.zip",
+  "source_sha256": "c8579ebf7c3b670f5bb6deadf04199cd29691809927437742ca4b4c13bf4c7b3",
+  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.12-beta/R36SPORTSBR_STORE_0.0.12-beta.zip",
+  "full_sha256": "ac2fe7dc05d286330091fc8bca679b7c6c6daed145b95fcb75bacd2fbbf14212",
+  "full_size": 13175107,
+  "min_version": "0.0.11",
+  "max_version": "0.0.11"
 }
