@@ -1,16 +1,16 @@
 {
   "channel": "beta",
   "status": "published",
-  "version": "0.0.12-beta",
-  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.12-beta/R36SPORTSBR_STORE_0.0.12-beta_UPDATE.zip",
-  "sha256": "2fba41a42bce93ed26e306e64840aeca0254527c0efa0b155b5b8475b04ebabc",
-  "size": 11204032,
-  "notes": "Novidades da R36SPORTSBR STORE 0.0.12-beta:\n\n- Tela Top 5 na Central de Conteudo, com ranking independente para Lira e R36SPORTSBR.\n- Cada catalogo utiliza seu proprio cache local, sem misturar estatisticas.\n- Descoberta automatica da URL Cloudflare via stats_api.json publico (inicialmente desativada).\n- Catálogo R36SPORTSBR separado, com Aestheta e Alice in Clicheland, versao 1.0 e arquivos SHA-256 verificados.\n- Codigo do Worker reforcado: verificacao de jogos autorizados, deduplicacao, bloqueio de POST por padrao e rate limit ponderado por evento.\n- A publicacao na conta Cloudflare e a ativacao de POST exigem testes adicionais e nao fazem parte desta atualizacao do console.\n- Temas existentes e caminhos de instalacao SD1/SD2 preservados.\n\nBaseado no R36S PORT HUB, por Lag do Lira. GPL-3.0.",
-  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.12-beta/R36SPORTSBR_STORE_0.0.12-beta_CODIGO_FONTE.zip",
-  "source_sha256": "c8579ebf7c3b670f5bb6deadf04199cd29691809927437742ca4b4c13bf4c7b3",
-  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.12-beta/R36SPORTSBR_STORE_0.0.12-beta.zip",
-  "full_sha256": "ac2fe7dc05d286330091fc8bca679b7c6c6daed145b95fcb75bacd2fbbf14212",
-  "full_size": 13175107,
-  "min_version": "0.0.11",
-  "max_version": "0.0.11"
+  "version": "0.0.13-beta",
+  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.13-beta/R36SPORTSBR_STORE_0.0.13-beta_UPDATE.zip",
+  "sha256": "8ff2a28dc02097e45bbd9aadbd7a2d58716a09da7fd424c60a917885fdf549a8",
+  "size": 11192993,
+  "notes": "Novidades da R36SPORTSBR STORE 0.0.13-beta:\n\n- Backup previo em branches separadas dos repositorios de codigo e atualizacoes.\n- Force Nexus — Jedi como tema padrao em novas instalacoes, sem modificar preferencias ja salvas.\n- Force Nexus — Sith como novo tema independente; quatro temas anteriores preservados.\n- Painel inicial Sith/Jedi 640x480 com ports reais, Top 5 Downloads por catalogo e atalhos.\n- Loja online de temas com catalogo separado, cache offline, download individual e atualizacoes.\n- Instalacao segura com SHA-256, verificacao de ZIP, bloqueio de links e caminhos inseguros.\n- Backup e restauracao durante atualizacoes de temas; remocao protegida sem atingir temas inclusos.\n- Rolagem na tela Configuracoes > Temas; previas e progresso de download.\n- Creditos originais, GPL-3.0, catalogos de jogos e caminho SD1/SD2 preservados.\n\nBaseado no R36S PORT HUB, por Lag do Lira. GPL-3.0.",
+  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.13-beta/R36SPORTSBR_STORE_0.0.13-beta_CODIGO_FONTE.zip",
+  "source_sha256": "b55b464de1e7f59b840e0a62035336578a00ff79b654f60ffd34a8d19b8db207",
+  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.13-beta/R36SPORTSBR_STORE_0.0.13-beta.zip",
+  "full_sha256": "4b2c1abb9a5e72464e85e5a07fa695cd50cff067cceee8ccbc036bf3043976c7",
+  "full_size": 13165085,
+  "min_version": "0.0.12",
+  "max_version": "0.0.12"
 }
