@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "enabled": false,
+  "api_url": "",
+  "catalogs": [
+    "r36sbr",
+    "lira"
+  ]
+}
