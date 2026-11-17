@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "enabled": false,
-  "api_url": "",
+  "enabled": true,
+  "api_url": "https://r36sportsbr-download-stats.james-spanico.workers.dev",
   "catalogs": [
     "r36sbr",
     "lira"
