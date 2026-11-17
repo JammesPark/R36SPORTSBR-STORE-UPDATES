@@ -1,16 +1,16 @@
 {
   "channel": "beta",
   "status": "published",
-  "version": "0.0.10-beta",
-  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.10-beta/R36SPORTSBR_STORE_0.0.10-beta_UPDATE.zip",
-  "sha256": "83ebe579bd9ff821b122a559631f2f6be6f7ad0470741010bc799fb11245e0cf",
-  "size": 11196778,
-  "notes": "R36SPORTSBR STORE 0.0.10-beta: atualizacao oficial do canal beta.",
-  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.10-beta/R36SPORTSBR_STORE_0.0.10-beta_CODIGO_FONTE.zip",
-  "source_sha256": "eac6bed844afed62db248cb736e993c0ea2e9cfd16f638d972df872e04751e81",
-  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.10-beta/R36SPORTSBR_STORE_0.0.10-beta.zip",
-  "full_sha256": "02014e9c108f1b0454ff85160997649e99deca3ff304f493a6cae3a41c500610",
-  "full_size": 13167125,
-  "min_version": "0.0.9",
-  "max_version": "0.0.9"
+  "version": "0.0.11-beta",
+  "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.11-beta/R36SPORTSBR_STORE_0.0.11-beta_UPDATE.zip",
+  "sha256": "48acdbb643e10090152701195d7bfb436c1ffa5d023701d6bccdfb77e857093b",
+  "size": 11200794,
+  "notes": "Novidades da R36SPORTSBR STORE 0.0.11-beta:\n\n- Infraestrutura do contador global de downloads: catalogos separados e ranking Top 5 do servidor.\n- Registro de cada novo download de jogo concluido, incluindo reinstalacoes no mesmo console.\n- Fila de eventos persistida no SD com reenvio em segundo plano e sem duplicacao no servidor.\n- Backend Cloudflare Workers + D1 opcional, desativado ate haver uma URL HTTPS configurada.\n- Sith e Jedi permanecem conceitos HTML; nenhuma alteracao de tema foi aplicada.\n\nBaseado no R36S PORT HUB, por Lag do Lira. GPL-3.0.",
+  "source_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.11-beta/R36SPORTSBR_STORE_0.0.11-beta_CODIGO_FONTE.zip",
+  "source_sha256": "15b759cbd6cb7cf2ad87f0cbea822183711d081518ba2bc3561d205591a1c1c3",
+  "full_url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/v0.0.11-beta/R36SPORTSBR_STORE_0.0.11-beta.zip",
+  "full_sha256": "867ca5825e48393139c8cec0165a8ac77554b9b00317de4f94a0c464666fd662",
+  "full_size": 13171585,
+  "min_version": "0.0.10",
+  "max_version": "0.0.10"
 }
