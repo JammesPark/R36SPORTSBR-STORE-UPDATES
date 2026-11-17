@@ -1,0 +1,55 @@
+{
+  "catalog_version": 1,
+  "title": "R36SPORTSBR STORE & HUB",
+  "updated": "2026-11-17",
+  "ports": [
+    {
+      "id": "aestheta",
+      "name": "Aestheta",
+      "short": "Estratégia roguelike de cartas com batalhas táticas.",
+      "description": "Jogo de estratégia com cartas, unidades e construções. Enfrente adversários e avance rumo à Estrela de Aestheta. Desenvolvido originalmente por AploveStudio.",
+      "category": "estrategia",
+      "section": "games",
+      "version": "1.0",
+      "cover": "https://archive.org/download/aestheta.-7z/Aestheta.png",
+      "sha256": "57e4a35b1eefc3e238acad4258c356aaf1284f1027a6ae72468cb5db86f1adba",
+      "author": "AploveStudio (jogo original; autor do port não identificado)",
+      "source_page": "https://archive.org/details/aestheta.-7z",
+      "notes": "Desenvolvido originalmente por AploveStudio. Autor do port não identificado. Confirme os direitos de utilização dos arquivos do jogo.",
+      "featured": false,
+      "added": "2026-11-17",
+      "download_url": "https://archive.org/download/aestheta.-7z/Aestheta.7z",
+      "size_bytes": 64024683,
+      "size_label": "61.1 MB"
+    },
+    {
+      "id": "alice-in-clicheland",
+      "name": "Alice in Clicheland",
+      "short": "RPG de ação 2D em um mundo de fantasia.",
+      "description": "RPG de ação com combates em tempo real e perspectiva superior. Alice enfrenta uma nova guerra em um mundo de fantasia. Criado por Matheus Silva Vilela, Thiago Silva Vilela e Vinicius Graciano Santos. Port atribuído a Cebion no PortMaster.",
+      "category": "rpg",
+      "section": "games",
+      "version": "1.0",
+      "cover": "https://archive.org/download/alice-in-clicheland/Alice%20In%20Clicheland.png",
+      "sha256": "3ecd8bf4a9ae52c2164ef54ead7b954c971cf9c442246b9d1a5df2a779fa6802",
+      "author": "Cebion (port); Matheus Silva Vilela, Thiago Silva Vilela e Vinicius Graciano Santos (jogo original)",
+      "source_page": "https://archive.org/details/alice-in-clicheland",
+      "notes": "Jogo original de Matheus Silva Vilela, Thiago Silva Vilela e Vinicius Graciano Santos; port atribuído a Cebion no PortMaster.",
+      "featured": false,
+      "added": "2026-11-17",
+      "download_url": "https://archive.org/download/alice-in-clicheland/Alice%20In%20Clicheland.7z",
+      "size_bytes": 24705055,
+      "size_label": "23.6 MB"
+    }
+  ],
+  "categories": [
+    {
+      "id": "estrategia",
+      "name": "Estratégia"
+    },
+    {
+      "id": "rpg",
+      "name": "RPG"
+    }
+  ]
+}
