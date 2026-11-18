@@ -1,27 +1,49 @@
 {
-  "catalog_version": 1,
+  "catalog_version": 2,
   "themes": [
     {
-      "id": "forcejedi",
-      "name": "Force Nexus — Jedi",
-      "version": "1.0.12",
-      "author": "R36SPORTSBR STORE",
-      "description": "Tema visual 640x480 baseado no conceito HTML V4.",
-      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-v1.0.12/forcejedi-1.0.12.zip",
-      "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/forcejedi.png",
-      "size": 449076,
-      "sha256": "762e5005fe919f20b45536cf8d4585459a0cf13958f58891880a5f208ed63be0"
+      "id": "default",
+      "name": "Tema Padrão",
+      "version": "1.0.1",
+      "author": "Lag do Lira (base visual adaptada)",
+      "description": "Tema original do Tema adaptado para R36SPORTSBR STORE: visual retrô gamer com rosa neon e ciano sobre fundo escuro. Revisado para atualizacao geral 0.0.27-beta: logo e cabecalho 640x480 validados.",
+      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-lira-v0.6.3/default-1.0.1.zip",
+      "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/default.png",
+      "size": 94065,
+      "sha256": "8f5e35d293c6100bb33689f13877cef8c72364fc27456284c3fc2fb6108d797c"
     },
     {
-      "id": "forcesith",
-      "name": "Force Nexus — Sith",
-      "version": "1.0.12",
-      "author": "R36SPORTSBR STORE",
-      "description": "Tema visual 640x480 baseado no conceito HTML V4.",
-      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-v1.0.12/forcesith-1.0.12.zip",
-      "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/forcesith.png",
-      "size": 435426,
-      "sha256": "96e1eb895f6064d508cfcb2bf6bdfb1af5c69415ac55790c3d29ba5a72f969f3"
+      "id": "neongrid",
+      "name": "Neon Grid Edition",
+      "version": "4.0.1",
+      "author": "Lag do Lira (base visual adaptada)",
+      "description": "Painel gamer escuro em verde: Guia Rápido com os ports recentes, cartão de destaque com brilho verde, blocos grandes e listas de ports em grade de capas. Revisado para atualizacao geral 0.0.27-beta: logo e cabecalho 640x480 validados.",
+      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-lira-v0.6.3/neongrid-4.0.1.zip",
+      "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/neongrid.png",
+      "size": 94210,
+      "sha256": "996dcb42e68cb99fc149da009658dc8fc9655f6c1a9d4198896d90e5dd5d7ccc"
+    },
+    {
+      "id": "wiiblue",
+      "name": "Wii Blue Edition",
+      "version": "1.0.1",
+      "author": "Lag do Lira (base visual adaptada)",
+      "description": "Inspirado no menu de canais do Nintendo Wii: fundo azul profundo, cartões brancos arredondados, ícones azuis e seleção com contorno azul luminoso. Visual limpo, com animações discretas. Revisado para atualizacao geral 0.0.27-beta: logo e cabecalho 64",
+      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-lira-v0.6.3/wiiblue-1.0.1.zip",
+      "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/wiiblue.png",
+      "size": 94235,
+      "sha256": "63a795b4dc55439f8529d292b805b9018b6757674db39b004e437c0e1f19bb88"
+    },
+    {
+      "id": "pastel",
+      "name": "Pastel Pop Edition",
+      "version": "1.0.1",
+      "author": "Lag do Lira (base visual adaptada)",
+      "description": "Visual claro e arredondado, inspirado nos menus do 3DS e do Wii U: moldura em degradê azul e roxo, fundo claro pontilhado com formas pastel, cartões brancos com bordas coloridas, barras em formato de pílula e tela inicial em carrossel. Revisado para ",
+      "url": "https://github.com/JammesPark/R36SPORTSBR-STORE-UPDATES/releases/download/themes-lira-v0.6.3/pastel-1.0.1.zip",
+      "preview_url": "https://raw.githubusercontent.com/JammesPark/R36SPORTSBR-STORE-UPDATES/main/themes/previews/pastel.png",
+      "size": 94125,
+      "sha256": "e1adb48fb497223275721e101d4affb3c6b03778e6ff2462f5687fb988000df8"
     }
   ]
 }
